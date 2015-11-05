@@ -1,0 +1,125 @@
+1325457125TS---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+     
+                  <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+                  <title>GroupAd</title>
+                  <meta content='Evin Weissenberg' name='author'>
+                  <meta content='Description' name='Description'>
+                  <meta content='Ads' name='Keywords'>
+                  <meta content='Los Angeles, California' name='Geography'>
+                  <meta content='English, Spanish, French, German, Italian, Japanese, Chinese' name='Language'>
+                  <meta content='never' http-equiv='Expires'>
+                  <meta content='7 days' name='Revisit-After'>
+                  <meta content='Global' name='distribution'>
+                  <meta content='INDEX,FOLLOW' name='Robots'>
+                  <meta content='USA' name='country'>
+                    <link rel="stylesheet" href="G_Library/css/style.css" type="text/css" media="screen, projection"/>
+     <!--[if lte IE 6]>
+     <link rel="stylesheet" href="G_Library/css/style_ie.css" type="text/css" media="screen, projection"/>
+     <![endif]-->
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+          <img src="G_Library/images/logo.png" width="165" alt="">
+          <strong>Header:</strong> Lorem ipsum doloreet, consectetur adipiscing elit.
+</div>     <!-- #header-->
+
+     <div id="middle">
+
+          <div id="container">
+               <div id="content">
+                    <strong>Content:</strong> Sed placerat accumsan ligula. Aliquam felis magna, congue quis, tempus eu,
+                    aliquam vitae, ante. Cras neque justo, ultrices at, rhoncus a, facilisis eget, nisl. Quisque vitae
+                    pede. Nam et augue. Sed a elit. Ut vel massa. Suspendisse nibh pede, ultrices vitae, ultrices nec,
+                    mollis non, nibh. In sit amet pede quis leo vulputate hendrerit. Cras laoreet leo et justo auctor
+                    condimentum. Integer id enim. Suspendisse egestas, dui ac egestas mollis, libero orci hendrerit
+                    lacus, et malesuada lorem neque ac libero. Morbi tempor pulvinar pede. Donec vel elit.
+               </div>
+               <!-- #content-->
+          </div>
+          <!-- #container-->
+
+
+               <div class="sidebar" id="sideLeft">
+     <div id="navigation">
+          <ul class="top-level">
+               <li><a href="#">Home</a>
+
+                    <ul class="sub-level">
+                         <li><a href="#">Sub Menu Item 1</a>
+                         </li>
+                         <li>
+                              <a href="#">Sub Menu Item 2</a>
+                              <ul class="sub-level">
+                                   <li><a href="#">Sub Sub Menu Item 1</a></li>
+
+                                   <li><a href="#">Sub Sub Menu Item 2</a></li>
+                                   <li><a href="#">Sub Sub Menu Item 3</a></li>
+                                   <li><a href="#">Sub Sub Menu Item 4</a></li>
+                              </ul>
+                         </li>
+                         <li><a href="#">Sub Menu Item 3</a></li>
+                         <li><a href="#">Sub Menu Item 3</a></li>
+
+                    </ul>
+               </li>
+               <li><a href="#">About</a></li>
+               <li><a href="#">Contact</a></li>
+               <li>
+                    <a href="#">FAQ</a>
+                    <ul class="sub-level">
+
+                         <li><a href="#">Sub Menu Item 1</a></li>
+                         <li>
+                              <a href="#">Sub Menu Item 3</a>
+                              <ul class="sub-level">
+                                   <li><a href="#">Sub Sub Menu Item 1</a></li>
+                                   <li><a href="r">Sub Sub Menu Item 2</a></li>
+                                   <li><a href="#">Sub Sub Menu Item 3</a></li>
+
+                                   <li><a href="#">Sub Sub Menu Item 4</a></li>
+                              </ul>
+                         </li>
+                    </ul>
+               </li>
+               <li>
+                    <a href="#">News</a>
+                    <ul class="sub-level">
+
+                         <li><a href="#">Sub Menu Item 1</a>
+                              <ul class="sub-level">
+                                   <li><a href="#">Sub Sub Menu Item 1</a></li>
+                                   <li><a href="#">Sub Sub Menu Item 2</a></li>
+                                   <li><a href="#">Sub Sub Menu Item 3</a></li>
+                                   <li><a href="#">Sub Sub Menu Item 4</a></li>
+
+                              </ul>
+                         </li>
+                         <li><a href="#">Sub Menu Item 2</a></li>
+                         <li><a href="#">Sub Menu Item 3</a></li>
+                    </ul>
+               </li>
+          </ul>
+     </div>
+</div>
+
+          <!-- .sidebar#sideLeft -->
+
+     </div>
+     <!-- #middle-->
+
+</div>
+<!-- #wrapper -->
+
+<!-- #footer -->
+<div id="footer">
+GroupAd.com
+</div>
+
+</body>
+</html>
